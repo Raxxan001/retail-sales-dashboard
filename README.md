@@ -1,2 +1,3 @@
-# retail-sales-dashboard
-A Power BI dashboard for monitoring and forecasting retail sales.
+## 🖼️ Dashboard Preview
+
+![Retail Sales Dashboard](dashboard.png)
